@@ -3714,7 +3714,7 @@ ul.wl-sort {
 }
 @media (prefers-color-scheme: light) {
   .first-screen-container {
-    background: url("/images/bg1234.png") center center/cover no-repeat !important;
+    background: url("https://s1.ax1x.com/2023/01/18/pS3R3mq.png") center center/cover no-repeat !important;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -3723,7 +3723,7 @@ ul.wl-sort {
   }
 }
 .light-mode .first-screen-container {
-  background: url("/images/bg1234.png") center center/cover no-repeat !important;
+  background: url("https://s1.ax1x.com/2023/01/18/pS3R3mq.png") center center/cover no-repeat !important;
 }
 .dark-mode .first-screen-container {
   background: url("https://evan.beee.top/img/wallhaven-wqery6-dark.webp") center center/cover no-repeat !important;
